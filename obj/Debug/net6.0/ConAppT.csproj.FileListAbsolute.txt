@@ -1,0 +1,15 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppT.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppT.deps.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppT.runtimeconfig.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppT.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppT.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.AssemblyInfoInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.AssemblyInfo.cs
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.sourcelink.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\refint\ConAppT.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppT.genruntimeconfig.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ref\ConAppT.dll
