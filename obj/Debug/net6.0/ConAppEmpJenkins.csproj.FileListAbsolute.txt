@@ -1,0 +1,15 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppEmpJenkins.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppEmpJenkins.deps.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppEmpJenkins.runtimeconfig.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppEmpJenkins.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\bin\Debug\net6.0\ConAppEmpJenkins.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.AssemblyInfoInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.AssemblyInfo.cs
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.sourcelink.json
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\refint\ConAppEmpJenkins.dll
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ConAppEmpJenkins.genruntimeconfig.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-4\Day-4\ConAppTwo\ConAppTwo\obj\Debug\net6.0\ref\ConAppEmpJenkins.dll
